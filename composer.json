@@ -1,0 +1,6 @@
+{
+    "require": {
+        "conekta/conekta-php": "^6.0",
+        "predis/predis": "^2.2"
+    }
+}
